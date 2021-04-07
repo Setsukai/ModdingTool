@@ -31,13 +31,5 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
-    "com.domybest.mybox": {
-      "hash": "22439970ebd516fb21fff43799f98cb4f1e04cea",
-      "revision": "HEAD"
-    },
-    "com.yasirkula.runtimepreviewgenerator": {
-      "hash": "338015b2a1a5679e6babc1d9b733225122197eca",
-      "revision": "HEAD"
-    }
   }
 }
